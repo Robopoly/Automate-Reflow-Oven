@@ -1,7 +1,7 @@
     /***************************************************
  * Title:      Reflow Oven
  * Version:    v1.0
- * Date:       2018-10-21
+ * Date:       2018-12-16
  * Author:     Taavet Kangur <taavetk@gmail.com>
  * Website:     
  * Licence:    LGPL
